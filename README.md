@@ -50,7 +50,9 @@ Vídeo utilizado como material complementar para compreender conceitos e aplica�
 
 🔗 https://www.youtube.com/watch?v=1c01r_pAZdk
 
-## Engenharia de Prompts e Cicatrizes
+---
+
+## 🧠 Engenharia de Prompts e Cicatrizes
 
 ### Prompt 1
 
@@ -76,10 +78,10 @@ O teste mostrou que prompts mais específicos geram respostas mais alinhadas ao 
 
 Ao informar:
 
-* o público;
-* as fontes;
-* o tema;
-* a estrutura desejada;
+- o público;
+- as fontes;
+- o tema;
+- a estrutura desejada;
 
 a resposta tende a ficar mais clara e útil.
 
@@ -93,7 +95,7 @@ a resposta tende a ficar mais clara e útil.
 
 ### O que é Business Intelligence?
 
-Business Intelligence (BI) é o conjunto de processos e tecnologias usados para coletar, organizar e analisar dados, transformando informações em apoio para decisões empresariais.
+Business Intelligence (BI) é o conjunto de processos e tecnologias utilizados para coletar, organizar e analisar dados, transformando-os em informações úteis para apoiar decisões empresariais.
 
 ### Principais etapas do BI
 
@@ -121,7 +123,7 @@ Exemplos:
 
 ### Power BI
 
-Power BI é uma ferramenta da Microsoft utilizada para conectar, tratar, analisar e visualizar dados por meio de relatórios e dashboards.
+Power BI é uma plataforma da Microsoft utilizada para conectar, tratar, analisar e visualizar dados por meio de relatórios e dashboards interativos.
 
 ### Cultura Data-Driven
 
@@ -185,7 +187,7 @@ Com essas informações, os gestores podem identificar quedas de desempenho, pro
 
 ## ✅ Conclusão
 
-Este projeto mostrou como a Inteligência Artificial pode ser utilizada como ferramenta de apoio ao aprendizado.
+Este projeto mostrou como a Inteligência Artificial pode ser utilizada como ferramenta de apoio à aprendizagem.
 
 Ao utilizar o NotebookLM com fontes confiáveis, foi possível estudar Business Intelligence de forma mais organizada, comparar respostas e melhorar a qualidade dos prompts.
 
